@@ -1,7 +1,4 @@
 MAD Project
-1. Piyush
-2. Hong Bing
-3. Ewan
 Project Overview:  
 The project involved the design and development of a mobile application integrating multiple features to enhance user productivity and accessibility. Core functionalities included an interactive calendar, maintenance scheduling and event tracking, and multilingual support through localisation.
 
@@ -33,3 +30,7 @@ Individual Contributions:
 
 
 The collaborative effort resulted in a robust mobile application that combines hardware‑aware scheduling, multilingual accessibility, and interactive mapping. Each team member contributed equally (33.3%) to the project’s success, ensuring balanced ownership and comprehensive feature delivery.
+
+
+Integration Note:  
+Due to technical issues with GitHub access, Ewan’s code contributions were manually transferred to Hong Bing for integration into the shared repository. This ensured that all features were successfully merged and the project maintained version consistency across modules.
