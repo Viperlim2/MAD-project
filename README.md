@@ -6,6 +6,9 @@ Project Overview:
 The project involved the design and development of a mobile application integrating multiple features to enhance user productivity and accessibility. Core functionalities included an interactive calendar, maintenance scheduling and event tracking, and multilingual support through localisation.
 
 <img width="765" height="764" alt="image" src="https://github.com/user-attachments/assets/e61f30c4-fe31-4e01-87ae-ee40465734e4" />
+
+
+
 Individual Contributions:
   Ewan: 
     Designed and implemented the interactive calendar interface.   
